@@ -1,3 +1,3 @@
 function msg(){
-	alert("hey tirumala coming");
+	alert("hey tirumala going to hyderabad");
 }
